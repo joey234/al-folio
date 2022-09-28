@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-08-05 15:59:00-0400
+date: 2022-09-20 15:59:00-0400
 inline: true
 ---
 
-:tada: A [paper](https://arxiv.org/abs/2209.08698) at SDP@COLING2022 - [MSLR Shared Task](https://leaderboard.allenai.org/mslr-cochrane/submissions/public) by AllenAI (joint-work with [Yulia](https://scholar.google.com/citations?user=Ee3RxjUAAAAJ&hl=en&oi=ao)).
+A new test suite for negation in NLI is accepted at AACL-ICJNLP 2022 ([Paper](https://arxiv.org/abs/2205.04012))!
