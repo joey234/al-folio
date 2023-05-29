@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-05-04 07:59:00-0400
+date: 2022-04-07 15:59:00-0400
 inline: true
 ---
 
-Started my PhD at UniMelb.
+[Paper](https://arxiv.org/abs/2205.04012) accepted at NAACL 2022! 
