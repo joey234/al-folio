@@ -1,7 +1,9 @@
 ---
 layout: post
-date: 2022-11-20 15:59:00-0400
+date: 2023-05-15 15:59:00-0400
 inline: true
 ---
 
-Our work on a new test suite for negation in NLI was selected as the Runner up for best paper award at AACL-ICJNLP 2022! ([Paper](https://arxiv.org/abs/2205.04012))
+
+**_Language models are not naysayers: an analysis of language models on negation benchmarks_** was accepted at *SEM 2023! ([Paper](https://arxiv.org/abs/2306.08189)). **Updated:** Beyond honored to be selected for Best paper award at *SEM 2023<br>  
+**_Automated Metrics for Medical Multi-Document Summarization Disagree with Human Evaluations_** was accepted at ACL 2023! ([Paper](https://arxiv.org/abs/2305.13693)). Huge props to Lucy, Yulia, Jay, Bailey, Erin, and Byron.

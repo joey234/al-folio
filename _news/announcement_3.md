@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-09-01 15:59:00-0400
+date: 2022-11-20 15:59:00-0400
 inline: true
 ---
 
-[Paper](https://arxiv.org/abs/2209.08359) on disfluency in SLU is accepted at Interspeech 2022. Congratulations to my old co-authors at VinAI Research!
+Our work on a new test suite for negation in NLI was selected as the Runner up for best paper award at AACL-ICJNLP 2022! ([Paper](https://arxiv.org/abs/2205.04012))
