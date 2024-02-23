@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently PhD student at [UniMelb](https://cis.unimelb.edu.au/) supervised by [Prof. Timothy Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/), [Prof. Trevor Cohn](https://people.eng.unimelb.edu.au/tcohn/), and [Prof. Karin Verspoor](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/v/verspoor-professor-karin).
+I am currently PhD student at [The University of Melbourne](https://cis.unimelb.edu.au/) supervised by [Prof. Timothy Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/), [Prof. Trevor Cohn](https://people.eng.unimelb.edu.au/tcohn/), and [Prof. Karin Verspoor](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/v/verspoor-professor-karin).
 I am doing research in NLP and ML, with a focus on discovering negation, a fundamental phenomenon in natural language.
 
 Previous to that, I obtained my Bachelor from Ho Chi Minh City University of Science, then worked as a research intern at [NII](https://www.nii.ac.jp/en/), and [VinAI Research](https://vinai.io)
